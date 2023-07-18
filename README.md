@@ -13,7 +13,7 @@ O seguinte código é um sistema criado como um trabalho da disciplina de Orient
 Clone o projeto
 
 ```bash
-  git clone https://github.com/gabisnb/Trabalho-OO
+  git clone https://github.com/quarerma/JavaMarketPlace
 ```
 
 Entre no diretório do projeto
